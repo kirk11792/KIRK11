@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../DONE"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "theme"
+	}
+}
